@@ -188,8 +188,8 @@ Iv: 'Link invalid !!'
 only: {
 nsfw: 'Fitur nsfw belum di aktifkan silakan hubungi admin untuk mengaktifkan',
 group: 'Fitur khusus grup !!',
-owner: 'Fitur khusus owner !!',
-admin: 'Fitur khusus admin !!',
+owner: 'Lu Ga Usah Ngaku² Jadi owner gw Dah bgo🗿 !!',
+admin: 'Liat Dulu Lah Jabatan Mu Apa Hanya Cuman Sampah Group doang 🗿!!',
 Badmin: 'Silakan jadikan bot admin dulu !!'
 }
 }
