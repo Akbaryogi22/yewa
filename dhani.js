@@ -175,7 +175,7 @@ module.exports = Dhani = async (Dhani, mek, _welkom) => {
 		      }
 		const ofrply = await getBuffer(pporang)
 
-        /══════════[ Mess Dll ]══════════//
+/══════════[ Mess Dll ]══════════//
 
 mess = {
 wait: 'Proses kak',
