@@ -174,7 +174,9 @@ module.exports = Dhani = async (Dhani, mek, _welkom) => {
 		pporang = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 		      }
 		const ofrply = await getBuffer(pporang)
-		
+
+        /══════════[ Mess Dll ]══════════//
+
 mess = {
 wait: 'Proses kak',
 eror: 'Maaf terjadi kesalahan !!',
